@@ -1,7 +1,7 @@
 {
-  "name": "wabot-fran_v2",
-  "version": "2.0",
-  "description": "Bot de Whatsapp de Fran.mga_4",
+  "name": "wabot-aq",
+  "version": "1.6.0",
+  "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/franliminator/WaBot-Fran_V2",
+  "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "Fran.mga_4"
+    "name": "Nurutomo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franliminator/WaBot-Fran_V2.git"
+    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/franliminator/WaBot-Fran_V2"
+    "url": "https://github.com/Nurutomo/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
